@@ -36,6 +36,7 @@ http://www.rcdd.org.cn/home/
 
 ## Use QBMG to generate fragment-like molecules
 ZINC Fragment database was used to train prior model so that it can be used to generate fragment-like molecules.
+
 Welcome to contact me: gkxiao(at)molcalx.com, replace the (at) with @.
 
 More detailed information in Chinese:
