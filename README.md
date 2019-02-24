@@ -34,9 +34,10 @@ This package requires:
 Welcome to contact us.
 http://www.rcdd.org.cn/home/
 
-## Added zinc fragment model
+## Use QBMG to generate fragment-like molecules
 ZINC Fragment database was used to train prior model so that it can be used to generate fragment-like molecules.
 Welcome to contact me: gkxiao(at)molcalx.com, replace the (at) with @.
+
 More detailed information in Chinese:
 http://blog.molcalx.com.cn/2019/02/24/deep-learning-for-fragment-replace.html
 ![invent new fragment](https://github.com/gkxiao/QBMG/blob/master/image/fragment-example.png) 
